@@ -38,3 +38,5 @@ Git add index.html ( to add specific file to git)
 
 Git commit -m “” (Message) -m “” (description)
 Git push origin main
+
+Git pull for next time
