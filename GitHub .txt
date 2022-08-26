@@ -42,4 +42,13 @@ Git push origin main
 Git pull for next time
 
 git init -- in new folder to make it a git 
+git status
+git add .
+git commit -m ""
+
+git remote add origin git@github.com:ShreyasBakare/NAME.git
+git remote -v
+
+git push origin master
+
 
