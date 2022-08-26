@@ -40,3 +40,6 @@ Git commit -m “” (Message) -m “” (description)
 Git push origin main
 
 Git pull for next time
+
+git init -- in new folder to make it a git 
+
