@@ -52,3 +52,13 @@ git remote -v
 git push origin master
 
 
+BRANCHING
+
+git branch
+git checkout -b feature (New Branch)
+
+git diff main
+git merge main
+OR
+Making PR
+
