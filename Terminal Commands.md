@@ -24,5 +24,9 @@ Here / is Volumes--> Macintosh HD
 In which the whole Mac OS is situated
 
 
+# 5. ls
+<img width="817" alt="image" src="https://user-images.githubusercontent.com/56884503/187036084-dff78109-a8b2-48f2-8a56-8dbb8235dac7.png">
+
+Argument 
 
 
