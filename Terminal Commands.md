@@ -27,6 +27,21 @@ In which the whole Mac OS is situated
 # 5. ls
 <img width="817" alt="image" src="https://user-images.githubusercontent.com/56884503/187036084-dff78109-a8b2-48f2-8a56-8dbb8235dac7.png">
 
-Argument 
+## ls Argument {A LOT OF OPTIONS IN man ls}
+
+Here ~ ==> /users/shreyasbakare
+
+<img width="1257" alt="image" src="https://user-images.githubusercontent.com/56884503/187044670-3e3397b3-6e54-4985-ae6f-660f142d1483.png">
+
+Here 
+Total 
+File permissions
+Owner of file 
+Group Owner
+File Size
+Modification date 
+File Name
+
+
 
 
