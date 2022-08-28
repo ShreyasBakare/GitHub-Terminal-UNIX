@@ -181,3 +181,45 @@ etc
 * ? --> for unknown letter
 python.??
 
+# 29. diff
+
+Diff in two files
+
+# 30. find
+
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/56884503/187094283-0dd06c9d-2cce-4b84-9e5a-5604fe628b24.png">
+
+find . -name ""
+find . -type d/f
+find . -iname "" (Case insensitive)
+find . -size +xxk -XXM
+
+<img width="563" alt="image" src="https://user-images.githubusercontent.com/56884503/187094435-cd4d2d24-cea8-457a-81e3-68ec3695855e.png">
+
+-exec 
+
+
+# 31. grep
+
+<img width="541" alt="image" src="https://user-images.githubusercontent.com/56884503/187094499-b601d6f6-d4fc-4d1d-9bd2-19d08d6db94b.png">
+
+
+grep -n (search) (filename)
+
+
+# 32. du
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/56884503/187094590-ac4aa6a6-cb1a-482a-b375-4bcbb86adc5f.png">
+
+# 33. df 
+allocted size and remaining size
+
+# 34. history
+!history number
+
+# 35. ps
+<img width="597" alt="image" src="https://user-images.githubusercontent.com/56884503/187094767-505048e1-f2c0-4370-90b4-37dac0ce42c6.png">
+
+
+# 36, kill 
+killall name
+
