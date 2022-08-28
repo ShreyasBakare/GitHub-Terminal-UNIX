@@ -158,9 +158,23 @@ output of 1 as input of 2nd and we can again redirect this
 
 
 
+# 27. uniq
+only adjacent duplicates
+
+<img width="768" alt="image" src="https://user-images.githubusercontent.com/56884503/187055347-6beb7d2e-1b0d-4880-b0ad-8c38f96e4a54.png">
+
+-d for only duplicate entries
+-u only uniq
+-c count
 
 
+# 28. expansion
 
+<img width="885" alt="image" src="https://user-images.githubusercontent.com/56884503/187055441-5fbe2987-e4b8-4207-af26-6bec13b852ab.png">
 
-
+## WILD CARDS 
+* --> for unknown string
+* .ppt
+? --> for unknown letter
+python.??
 
