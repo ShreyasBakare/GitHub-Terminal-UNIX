@@ -170,7 +170,10 @@ only adjacent duplicates
 
 # 28. expansion
 
-<img width="885" alt="image" src="https://user-images.githubusercontent.com/56884503/187055441-5fbe2987-e4b8-4207-af26-6bec13b852ab.png">
+$PATH
+$USER
+~
+etc
 
 ## WILD CARDS 
 * --> for unknown string
