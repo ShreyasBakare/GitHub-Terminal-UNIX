@@ -176,8 +176,8 @@ $USER
 etc
 
 ## WILD CARDS 
-* --> for unknown string
-* .ppt
-? --> for unknown letter
+* * --> for unknown string
+* * .ppt
+* ? --> for unknown letter
 python.??
 
