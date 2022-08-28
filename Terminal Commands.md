@@ -141,12 +141,12 @@ pwd >> time.txt
  # 23. echo
  <img width="652" alt="image" src="https://user-images.githubusercontent.com/56884503/187050173-02504733-8735-46ba-b0c1-20a56537dc57.png">
 
-@ 24. wc
+# 24. wc
 <img width="630" alt="image" src="https://user-images.githubusercontent.com/56884503/187050211-6db77dc0-d6e8-4b1c-bd73-8b26e2466a0d.png">
 
 lines words bytes
 
-#. 25. piping |
+# 25. piping |
 
 output of 1 as input of 2nd and we can again redirect this 
 
