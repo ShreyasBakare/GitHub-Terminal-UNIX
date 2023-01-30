@@ -33,7 +33,6 @@ In which the whole Mac OS is situated
 
 Here ~ ==> /users/shreyasbakare (Home)
 / is root directory
-<img width="1257" alt="image" src="https://user-images.githubusercontent.com/56884503/187044670-3e3397b3-6e54-4985-ae6f-660f142d1483.png">
 
 Here 
 Total 
